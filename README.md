@@ -1,2 +1,4 @@
 # Atividade-MAPA
 MAPA Tópicos E Software
+
+O GitHub utiliza ramificações, conhecidas como branches, para organizar o desenvolvimento de projetos de forma colaborativa. Um branch é como uma linha paralela de trabalho, permitindo que alterações sejam feitas sem impactar a versão principal, chamada de main ou master. Para criar um branch no GitHub, você deve acessar o repositório e localizar o seletor de branch próximo ao nome do repositório. Ao clicar nele, será possível digitar o nome do novo branch e pressionar Enter para criá-lo. O branch criado será uma cópia do estado atual do branch principal, pronto para receber alterações como novas funcionalidades, correções ou experimentos. Depois de concluir o trabalho no branch, ele pode ser mesclado de volta ao principal por meio de um pull request, garantindo a organização e a integridade do código principal. Essa abordagem permite o trabalho simultâneo de várias pessoas em diferentes partes do projeto sem conflitos.
